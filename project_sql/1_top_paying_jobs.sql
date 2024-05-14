@@ -9,7 +9,7 @@ Deliverables:
 -- selected the most important columns and removed NULL salary values
 SELECT
     job_id,
-    job_title_short,
+    job_title,
     company_dim.name AS company_name,
     job_location,
     job_schedule_type,
