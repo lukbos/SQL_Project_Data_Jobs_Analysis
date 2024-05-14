@@ -64,7 +64,8 @@ LIMIT 10
 
 <br>
 
-![Top Paying Roles](project_sql\assets\Top_paying_jobs.png)
+![Top Paying Roles](project_sql/Top_paying_jobs.png)
+
 _A bar graph showing the top 10 results from highest paying annual salaries, generated using Tableau_
 
 ### 2. Top paying job skills
@@ -105,7 +106,7 @@ ORDER BY salary_year_avg DESC
 
 <br>
 
-![top_paying_job_skills](project_sql\assets\top_paying_job_skills.png)
+![top_paying_job_skills](project_sql/top_paying_job_skills.png)
 *A bar graph visualising the top 10 highest paid skills as a data analyst, generated using Tableau*
 
 ### 3. Most popular skills
