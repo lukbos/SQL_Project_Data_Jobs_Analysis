@@ -2,7 +2,7 @@
 
 This is a deep dive into the current job market for Data Analyst. 
 
-Discover the most popular and in-demand skills 🔥, characteristics of Data Analyst jobs with higher paying salaries and general insights to help new Data Analysts with well informed career development📊.
+Discover the most popular and in-demand skills 🔥, characteristics of Data Analyst jobs with higher paying salaries and general insights to help new Data Analysts with well informed career development 📊.
 
 Check out my SQL queries [project_sql folder](/project_sql/): 💻🔍
 
