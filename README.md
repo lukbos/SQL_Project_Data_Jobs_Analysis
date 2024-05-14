@@ -107,6 +107,7 @@ ORDER BY salary_year_avg DESC
 <br>
 
 ![top_paying_job_skills](project_sql/top_paying_job_skills.png)
+
 *A bar graph visualising the top 10 highest paid skills as a data analyst, generated using Tableau*
 
 ### 3. Most popular skills
