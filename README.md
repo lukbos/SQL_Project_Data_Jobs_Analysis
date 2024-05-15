@@ -1,6 +1,6 @@
 # Introduction
 
-This is a deep dive into the current job market for Data Analyst. 
+This is a deep dive into the current job market for Data Analytics. 
 
 Discover the most popular and in-demand skills 🔥, characteristics of Data Analyst jobs with higher paying salaries and general insights to help new Data Analysts with well informed career development 📊.
 
